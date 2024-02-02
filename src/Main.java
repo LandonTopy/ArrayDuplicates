@@ -27,7 +27,7 @@ public class Main {
             } else if (newArray[i] == 1) {
                 count1++;
             } else if (newArray[i] == 2) {
-                count3++;
+                count2++;
             } else if (newArray[i] == 3) {
                 count3++;
             } else if (newArray[i] == 4) {
